@@ -1,23 +1,33 @@
 from .addresses import Address
 
+
 class Province(Address):
+    __excluded__ = ["_Address__addresses", "get_all_addresses"]
+
     def __init__(self):
         super().__init__()
         self._provinces_dict = self.get_all_addresses()
         self._provinces = list(self._provinces_dict.keys())
-    
+
+    def __dir__(self):
+        dir = super().__dir__()
+        for name in self.__excluded__:
+            if name in dir:
+                dir.remove(name)
+        return dir
+
     def get_all_provinces(self):
         '''
             Returns all provinces name in Nepal.
         '''
         return self._provinces
-    
+
     def check_province_exist(self, province_name):
         '''
             check if province exist.
         '''
         return province_name in self._provinces
-    
+
     def _get_province_detail(self, province_name):
         '''
             Returns the province detail in the province.
@@ -33,7 +43,7 @@ class Province(Address):
             return list(province_detail.keys())
         else:
             return []
-        
+
     def get_municipalities(self, province_name):
         '''
             Returns all municipalities in the province.
