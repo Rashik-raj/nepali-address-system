@@ -13,7 +13,6 @@ addresses = {
     ],
     "Sankhuwasabha": [
       "Dharmadevi Municipality",
-      "Madi Municipality",
       "Chainapur Municipality",
       "Panchakhapan Municipality",
       "Khandabari Municipality",
@@ -35,9 +34,7 @@ addresses = {
     ],
     "Okhaldhunga": [
       "Manebhanjyang Rural Municipality",
-      "Sunkoshi Rural Municipality",
       "Champadevi Rural Municipality",
-      "Likhu Rural Municipality",
       "Khiji Demba Rural Municipality",
       "Molung Rural Municipality",
       "Siddhicharan Municipality",
@@ -73,7 +70,6 @@ addresses = {
       "Dhankuta Municipality",
       "Chhathar Jorpati Rural Municipality",
       "Pakhribas Municipality",
-      "Mahalaxmi Municipality"
     ],
     "Terhathum": [
       "Chhathar Rural Municipality",
@@ -84,7 +80,6 @@ addresses = {
       "Aatharai Rural Municipality"
     ],
     "Panchthar": [
-      "Miklajung Rural Municipality",
       "Tumbewa Rural Municipality",
       "Kummayak Rural Municipality",
       "Falgunanda Rural Municipality",
@@ -159,7 +154,6 @@ addresses = {
       "Udayapurgadhi Rural Municipality",
       "Katari Municipality",
       "Tapli Rural Municipality",
-      "Sunkoshi Rural Municipality",
       "Rautamai Rural Municipality",
       "Triyuga Municipality",
       "Chaudandigadhi Municipality",
@@ -197,7 +191,6 @@ addresses = {
       "Laxmipur Patari Rural Municipality",
       "Sukhipur Municipality",
       "Arnama Rural Municipality",
-      "Bishnupur Rural Municipality",
       "Naraha Rural Municipality",
       "Kalyanpur Municipality",
       "Karjanha Municipality",
@@ -211,7 +204,6 @@ addresses = {
       "Nagarain Municipality",
       "Dhanauji Rural Municipality",
       "Janakpur Sub-Metropolitian City",
-      "Aurahi Rural Municipality",
       "Bideha Municipality",
       "Janak Nandini Rural Municipality",
       "Kamala Municipality",
@@ -333,9 +325,7 @@ addresses = {
       "Gaurishankar Rural Municipality"
     ],
     "Sindhupalchok": [
-      "Sunkoshi Rural Municipality",
       "Lisankhu Pakhar Rural Municipality",
-      "Tripurasundari Rural Municipality",
       "Bahrabise Municipality",
       "Balephi Rural Municipality",
       "Choutara Sangachowkgadhi Municipality",
@@ -430,7 +420,6 @@ addresses = {
       "Khandadevi Rural Municipality",
       "Manthali  Municipality",
       "Ramechhap Municipality",
-      "Likhu Rural Municipality",
       "Gokulganga Rural Municipality",
       "Umakunda Rural Municipality"
     ],
@@ -446,7 +435,6 @@ addresses = {
       "Dudhouli Municipality"
     ],
     "Makwanpur": [
-      "Bagmati Rural Municipality",
       "Bakaiya Rural Municipality",
       "Makawanpurgadhi Rural Municipality",
       "Bhimphedi Rural Municipality",
@@ -500,7 +488,6 @@ addresses = {
       "Malika Rural Municipality",
       "Dhawalagiri Rural Municipality",
       "Raghuganga Rural Municipality",
-      "Annapurna Rural Municipality"
     ],
     "Kaski": [
       "Rupa Rural Municipality",
@@ -587,8 +574,6 @@ addresses = {
       "Subarnabati Rural Municipality",
       "Runtigadhi Rural Municipality",
       "Rolpa Municipality",
-      "Tribeni Rural Municipality",
-      "Madi Rural Municipality",
       "Sukidaha Rural Municipality",
       "Duikholi Rural Municipality",
       "Thawang Rural Municipality",
@@ -612,9 +597,7 @@ addresses = {
       "Resunga Municipality",
       "Dhurkot Rural Municipality",
       "Madane Rural Municipality",
-      "Malika Rural Municipality",
       "Isma Rural Municipality",
-      "Musikot Municipality",
       "Chandrakot Rural Municipality",
       "Satyawoti Rural Municipality",
       "Kali Gandaki Rural Municipality"
@@ -668,7 +651,6 @@ addresses = {
     ],
     "Kapilbastu": [
       "Shuddhodhan Rural Municipality",
-      "Mayadevi Rural Municipality",
       "Yasodhara Rural Municipality",
       "Kapilbastu Municipality",
       "Maharajganj Municipality",
@@ -694,7 +676,6 @@ addresses = {
       "Narainapur Rural Municipality",
       "Duduwa Rural Municipality",
       "Nepalganj Sub-Metropolitian City",
-      "Janaki Rural Municipality",
       "Khajura Rural Municipality",
       "Baijanath Rural Municipality",
       "Kohalpur Municipality",
@@ -748,7 +729,6 @@ addresses = {
       "Patarasi Rural Municipality"
     ],
     "Kalikot": [
-      "Kalika Rural Municipality",
       "Mahawai Rural Municipality",
       "Tilagupha Municipality",
       "Khandachakra Municipality",
@@ -782,7 +762,6 @@ addresses = {
     ],
     "Rukum West ": [
       "Chaurjahari Municipality",
-      "Tribeni Rural Municipality",
       "Musikot Municipality",
       "Banphikot Rural Municipality",
       "Sanibheri Rural Municipality",
@@ -845,7 +824,6 @@ addresses = {
       "Marma Rural Municipality",
       "Apihimal Rural Municipality",
       "Naugad  Rural Municipality",
-      "Mahakali Municipality",
       "Duhun Rural Municipality",
       "Byas Rural Municipality"
     ],
@@ -904,7 +882,6 @@ addresses = {
       "Bardagoriya Rural Municipality",
       "Ghodaghodi Municipality",
       "Gauriganga Municipality",
-      "Godawari Municipality",
       "Chure Rural Municipality",
       "Mohanyal Rural Municipality"
     ],
